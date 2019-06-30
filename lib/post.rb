@@ -19,6 +19,7 @@ class Post
             nil
         else
             author.name
+
         end
 
 
